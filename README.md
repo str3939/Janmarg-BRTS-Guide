@@ -80,10 +80,7 @@ AhmedabadBRTS/
 ### Steps
 
 1. Open Android Studio
-2. Select **File → Open** and navigate to:
-   ```
-   C:\Users\Shubh Tripathi\.gemini\antigravity-ide\scratch\AhmedabadBRTS
-   ```
+2. Select **File → Open** 
 3. Wait for Gradle sync to complete
 4. Connect an Android device (API 24+) or launch an emulator
 5. Click **Run ▶**
